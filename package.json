@@ -1,0 +1,23 @@
+{
+  "name": "Cypresspractice",
+  "version": "1.0.0",
+  "description": "This file is for cypress practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malleswari2205/Cypresspractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malleswari2205/Cypresspractice/issues"
+  },
+  "homepage": "https://github.com/Malleswari2205/Cypresspractice#readme",
+  "devDependencies": {
+    "cypress": "^13.13.3"
+  }
+}
